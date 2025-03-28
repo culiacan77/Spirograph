@@ -1,0 +1,3 @@
+Adafruit CircuitPython 9.2.5 on 2025-03-19; HEIA-FR Picomo V2 with rp2040
+Board ID:heiafr_picomo_v2
+UID:E6617C92D3357424
