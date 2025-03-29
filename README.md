@@ -1,5 +1,5 @@
 # Spirograph
-Rework of Jacque Supzick spirograph
+Some changing over Jacque Supzick spirograph repository
 
 the spirograph contain 4 adjustable variables, each one depicted by a color.
 Red = big circle radius
