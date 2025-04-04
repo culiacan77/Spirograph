@@ -1,1 +1,5 @@
 .vscode/settings.json
+.Trash*
+.fseventsd
+.metadata_never_index
+boot_out.txt
